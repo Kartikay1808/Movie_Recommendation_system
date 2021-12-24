@@ -1,0 +1,1 @@
+web: setup.sh && streamline run app.py
