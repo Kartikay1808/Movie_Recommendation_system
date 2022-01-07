@@ -23,6 +23,7 @@ the top 5 similar movies using our movie recommendation system. We will be using
 algorithm for our purpose.
 
 # Streamlit web page Demo:
+![Screenshot (79)](https://user-images.githubusercontent.com/92773900/148548761-16acc944-f1d4-4527-b354-7a61cc905a57.png)
 
 
 
