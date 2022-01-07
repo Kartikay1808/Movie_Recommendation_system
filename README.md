@@ -17,3 +17,10 @@
  Data is taken from Kaggle.
  ## Datsset link https://www.kaggle.com/tmdb/tmdb-movie-metadata
  
+ **Streamlit**:
+ A Streamlit web application for the recommendation of movies. When the user searches for a movie we will recommend
+the top 5 similar movies using our movie recommendation system. We will be using an item-based collaborative filtering
+algorithm for our purpose.
+
+
+ 
