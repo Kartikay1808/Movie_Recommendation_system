@@ -22,6 +22,8 @@
 the top 5 similar movies using our movie recommendation system. We will be using an item-based collaborative filtering
 algorithm for our purpose.
 
+# Streamlit web page Demo:
+
 
 
  
